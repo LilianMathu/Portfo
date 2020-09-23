@@ -204,7 +204,7 @@ section {
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
-    height: 700px;
+	height: 700px;
 }
 
 
@@ -232,6 +232,12 @@ section {
 	font-size: 45px;
 	font-family: Verdana, Geneva, Tahoma, sans-serif;
 	font-style: italic;
+	padding: 2%;
+}
+
+.section2{
+	background-color: darkgrey;
+	padding: 3%;
 }
 
 .how-section1{
